@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bitty007
 - 👀 I’m interested in technology and learning new things
-- 🌱 I’m currently learning sofware engineering 
+- 🌱 I’m currently learning how to besoftware engineering on alx
 - 💞️ I’m looking to collaborate on life changing opportunities
 - 📫 How to reach me @bitruspraise@gmail.com
 
